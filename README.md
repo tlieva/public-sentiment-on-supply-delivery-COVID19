@@ -39,8 +39,32 @@ This projects aims at; Examining Public Sentiments on Products Supply and Delive
 
 
 ## Summary of Findings & Recommendations
+### Part 1: Public Sentiment
+Results of polarity sentiment analysis regarding the supply chain and delivery service during the peak of the first and second wave appeared to be positive despite the significant disruptions faced by the industry in response to the unprecedented conditions brought by the COVID-19 pandemic (Figure 1).
 
+**Figure 1. Polarity Sentiment Analysis**
 
+<img width="512" alt="Screen Shot 2022-08-17 at 8 49 38 PM" src="https://user-images.githubusercontent.com/106416383/185268338-fc73aceb-e73d-46e0-bf4b-9e1500692a75.png">
+
+Frequent keyword analysis shows words like shortage, manufacturing, government, need, supply, money, COVID, inventory, problem, shipping to be used in their statements, depicting the sense of worry for meeting demands and the unanticipated changes in the market due to regulations and safety compliances (**Figure 2**). More importantly, subjectivity analysis alone indicate that these sentiments among the consumer market are generally driven by personal opinions rather than on facts (**Figure 3**). 
+
+**Figure 2. Frequent Keyword Word Cloud**
+
+<img width="460" alt="Screen Shot 2022-08-17 at 8 51 37 PM" src="https://user-images.githubusercontent.com/106416383/185268540-b6aaf90f-1bbb-432c-abea-886547d98b6c.png">
+
+**Figure 3. Subjectivity Sentiment Analysis**
+
+<img width="489" alt="Screen Shot 2022-08-17 at 8 53 14 PM" src="https://user-images.githubusercontent.com/106416383/185268678-e8a7d83f-7caa-41dc-a86b-bf703b2f75f2.png">
+
+Results of the examination of the overall public sentiment based on polarity and subjectivity scores of the public’s opinion in **Figure 4** highlights an overall neutral with a slight lean towards a positive perception held by the public on the state of the supply chain industry despite the challenges faced by many supply chain firms during the peak of the pandemic. This can be observed in the figure which presents a fairly even distribution of responses regarding the state of the supply chain and delivery service, suggesting that public sentiment is generally split.
+
+**Figure 4. Polarity vs Subjectivity Scores**
+
+<img width="479" alt="Screen Shot 2022-08-17 at 8 55 46 PM" src="https://user-images.githubusercontent.com/106416383/185268889-a1026cdc-e9f5-4697-8553-c12e4a24d325.png">
+
+It is possible that people’s acceptance of the pandemic made them adjust to the new demands even though demands were not being fulfilled in totality.
+
+### Part 2: Stock Market Reactions
 
 
 # References
