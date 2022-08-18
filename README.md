@@ -106,7 +106,8 @@ In terms of the stock market trading volume of these top supply chain firms, res
 
 _Recommendations_
 - Need for diversifying the supply network to prevent dependency on a single supplier in which many companies lacked (Shih, 2020; Ferreira, 2021)
-- Consider holding intermediate inventory or safety stock
+- Re-evaluate lean supply strategy which focused on minimizing cost and maximizing and consider a more flexible strategy 
+- Moving the supply chains towards automation will also be the key to building a more resilient supply chain network
 
 ### Limitation
 
