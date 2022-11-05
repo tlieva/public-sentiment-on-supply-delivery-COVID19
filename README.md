@@ -1,5 +1,5 @@
 # Public Sentiment on the Supply and Delivery During COVID-19
-Repository for web scrapping research project compeleted for my postgraduate studies in Analytics for Business Decision-Making in MGMT 4084 - Digital Media Analysis.
+Repository for web scrapping research project.
 
 ## Project Background
 
