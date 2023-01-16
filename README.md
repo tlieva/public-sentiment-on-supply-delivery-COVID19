@@ -1,5 +1,5 @@
 # Public Sentiment on the Supply and Delivery During COVID-19
-Repository for web scrapping research project.
+Repository for web scrapping academic research project.
 
 ## Project Background
 
